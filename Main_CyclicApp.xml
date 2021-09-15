@@ -70,7 +70,7 @@
 </Sections></Interface>
       <IsIECCheckEnabled>false</IsIECCheckEnabled>
       <MemoryLayout>Optimized</MemoryLayout>
-      <Name>Main_CyclicApp</Name>
+      <Name>Main_CyclicTestApp</Name>
       <Number>1</Number>
       <ProgrammingLanguage>FBD</ProgrammingLanguage>
       <SetENOAutomatically>false</SetENOAutomatically>
